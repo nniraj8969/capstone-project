@@ -1,2 +1,2 @@
-# itcproject
-first itc1 project
+# capstoneproject
+first capstone project
